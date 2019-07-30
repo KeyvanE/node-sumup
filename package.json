@@ -1,0 +1,21 @@
+{
+  "name": "node-sumup",
+  "version": "1.0.1",
+  "description": "Node SDK for the SumUp API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeyvanE/node-sumup.git"
+  },
+  "author": "Keyvan ESTERMANN",
+  "license": "WTFPL",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "logplease": "^1.2.15",
+    "node-fetch": "^2.6.0",
+    "underscore": "^1.9.1"
+  }
+}
